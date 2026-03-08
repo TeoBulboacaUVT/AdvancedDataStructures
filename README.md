@@ -38,10 +38,13 @@ To run any lab's test file:
    test.exe
    ```
 
+1.b.
+   Find the output folder in each lab and run the Main.exe directly
+
 ## Lab Contents
 
 - **Lab 1**: Binary Search Tree implementation and operations
-
+- **Lab 2**: Red/Black Tree implementation and operations
 
 ## Testing
 
