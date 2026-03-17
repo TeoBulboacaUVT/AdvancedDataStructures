@@ -1,0 +1,28 @@
+Problem 2: Dynamic Median of a Data Stream
+Description
+You are receiving a stream of integers and must continuously report the median of the numbers seen so far.
+The data structure must support:
+ADD x → insert number x
+
+REMOVE x → remove one occurrence of x
+
+MEDIAN → output the current median
+
+If the number of elements is even, return the lower median.
+
+Example
+Input
+ADD 5
+ADD 2
+ADD 10
+MEDIAN
+ADD 7
+MEDIAN
+REMOVE 5
+MEDIAN
+Output
+5
+5
+7
+
+

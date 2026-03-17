@@ -1,0 +1,7 @@
+ADD Alice 120
+ADD Bob 90
+ADD Carol 150
+UPDATE Bob 50
+TOP 2
+REMOVE Carol
+TOP 2
